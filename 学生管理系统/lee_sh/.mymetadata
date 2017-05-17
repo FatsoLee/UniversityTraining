@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="lee_sh"
+  id="myeclipse.1492656619156"
+  context-root="/lee_sh"
+  j2ee-spec="6.0"
+  archive="lee_sh.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
