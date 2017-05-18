@@ -10,7 +10,7 @@
 		<property name="myeclipse.connection.profile">hibernate_mysql</property>
 		<property name="connection.url">jdbc:mysql://localhost:3306/mysql-sh?characterEncoding=utf8</property>
 		<property name="connection.username">root</property>
-		<property name="connection.password">zhipeng19941006</property>
+		<property name="connection.password">123456</property>
 		<property name="connection.driver_class">com.mysql.jdbc.Driver</property>
 		
 		
